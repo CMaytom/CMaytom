@@ -6,13 +6,13 @@
 </p>
 
 ## 👨‍💻 My Skills
-<img src="https://raw.githubusercontent.com/cmaytom/cmaytom/master/img/python.png" width=60> 
-<img src="https://raw.githubusercontent.com/cmaytom/cmaytom/master/img/java.png" width=60>
-<img src="https://raw.githubusercontent.com/cmaytom/cmaytom/master/img/sql.png" width=60>
-<img src="https://raw.githubusercontent.com/cmaytom/cmaytom/master/img/cplus.png" width=60>
-<img src="https://raw.githubusercontent.com/cmaytom/cmaytom/master/img/vscode.png" width=60>
-<img src="https://raw.githubusercontent.com/cmaytom/cmaytom/master/img/github.png" width=60>
-<img src="https://raw.githubusercontent.com/cmaytom/cmaytom/master/img/markdown.png" width=60>
+<img src="https://github.com/CMaytom/CMaytom/blob/master/img/python.png" width=60> 
+<img src="https://github.com/CMaytom/CMaytom/blob/master/img/java.png" width=60>
+<img src="https://github.com/CMaytom/CMaytom/blob/master/img/sql.png" width=60>
+<img src="https://github.com/CMaytom/CMaytom/blob/master/img/cplus.png" width=60>
+<img src="https://github.com/CMaytom/CMaytom/blob/master/img/vscode.png" width=60>
+<img src="https://github.com/CMaytom/CMaytom/blob/master/img/github.png" width=60>
+<img src="https://github.com/CMaytom/CMaytom/blob/master/img/markdown.png" width=60>
 
 ## :notebook: My Goals 
 - [X] Graduate College 👨‍🎓
