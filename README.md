@@ -6,6 +6,8 @@
 </p>
 
 ## 👨‍💻 My Skills
+
+<p>
 <img src="https://github.com/CMaytom/CMaytom/blob/master/img/python.png" width=60> 
 <img src="https://github.com/CMaytom/CMaytom/blob/master/img/java.png" width=60>
 <img src="https://github.com/CMaytom/CMaytom/blob/master/img/sql.png" width=60>
@@ -13,6 +15,7 @@
 <img src="https://github.com/CMaytom/CMaytom/blob/master/img/vscode.png" width=60>
 <img src="https://github.com/CMaytom/CMaytom/blob/master/img/github.png" width=60>
 <img src="https://github.com/CMaytom/CMaytom/blob/master/img/markdown.png" width=60>
+</p>
 
 ## :notebook: My Goals 
 - [X] Graduate College 👨‍🎓
